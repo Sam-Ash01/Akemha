@@ -30,6 +30,8 @@ To run the project locally:
 git clone https://github.com/Sam-Ash01/Akemha.git
 npm install
 npm run start
+```
+---
 
 ## 📬 Contact
 For contributions or inquiries, please reach out to me 
